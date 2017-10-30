@@ -1,0 +1,38 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+	background: #7884a5;
+}
+#content {
+	overflow: auto;
+	height: 100%
+}
+#nav, #feature, #footer {
+	margin: 1%;
+}
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+}
+.column3 {margin-right: 0%}
+il {
+	display: inline;
+	padding: 0.5em;
+}
+#footer{
+	background-color: #;
+	padding: 0.5em 0;
+}
+#feature, .article {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #333;
+}
+#nav{
+	background-color: #333;
+	padding: 0.5 0em;
+}
+#home{
+	float: center bottom;
+}
